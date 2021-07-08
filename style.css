@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    
+    
+}
+
+
+
+.header * {
+     border : solid;
+}
+
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
